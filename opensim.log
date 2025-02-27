@@ -1,0 +1,663 @@
+[2025-02-26 17:18:05.752] [info] Updating Model file from 40000 to latest format...
+[2025-02-26 17:18:05.778] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted.osim
+[2025-02-26 17:18:24.377] [info] Adding force object set from C:\Users\Anna\Documents\StrengthScalingDemo\gait2392_CMC_Actuators.xml
+[2025-02-26 17:18:24.433] [info] Running tool 'subject01_walk1'.
+[2025-02-26 17:18:24.459] [info] ExternalLoads 'Ex2' was renamed and is being reset to 'externalloads'.
+[2025-02-26 17:18:24.473] [info] TaskSet size = 23.
+[2025-02-26 17:18:24.503] [info] Storage: read data file = subject01_walk1_grf.mot (nr=1501 nc=19)
+[2025-02-26 17:18:24.516] [info] ExternalForce::ExternalForce_1 Data source being set to subject01_walk1_grf.mot
+[2025-02-26 17:18:24.516] [info] ExternalForce::ExternalForce_2 Data source being set to subject01_walk1_grf.mot
+[2025-02-26 17:18:24.518] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.518] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med1_r' has been reset to 0.02.
+[2025-02-26 17:18:24.518] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med2_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med3_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min1_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min2_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min3_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'semimem_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'semiten_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemlh_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemsh_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'sar_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_long_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_brev_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag1_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag2_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag3_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tfl_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'pect_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'grac_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max1_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max2_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max3_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'iliacus_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'psoas_r' has been reset to 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.519] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'quad_fem_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'gem_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'peri_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'rect_fem_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_med_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_int_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_lat_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'med_gas_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'lat_gas_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'soleus_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_post_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'flex_dig_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'flex_hal_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_ant_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_brev_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_long_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_tert_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ext_dig_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ext_hal_r' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med1_l' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med2_l' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_med3_l' has been reset to 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.520] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min1_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min2_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_min3_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'semimem_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'semiten_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemlh_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'bifemsh_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'sar_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_long_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_brev_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag1_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag2_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'add_mag3_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tfl_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'pect_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'grac_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max1_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max2_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'glut_max3_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'iliacus_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'psoas_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'quad_fem_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'gem_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'peri_l' has been reset to 0.02.
+[2025-02-26 17:18:24.521] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'rect_fem_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_med_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_int_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'vas_lat_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'med_gas_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'lat_gas_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'soleus_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_post_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'flex_dig_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'flex_hal_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'tib_ant_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_brev_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_long_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'per_tert_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ext_dig_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ext_hal_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ercspn_r' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'ercspn_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'intobl_r' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'intobl_l' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'extobl_r' has been reset to 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: CMC cannot compute controls for muscles with muscle controls less than 0.02.
+[2025-02-26 17:18:24.522] [warning] CMC::extendAddToSystem: The minimum control limit for muscle 'extobl_l' has been reset to 0.02.
+[2025-02-26 17:18:24.530] [warning] A desired points file was not specified.
+[2025-02-26 17:18:24.530] [info] Loading desired kinematics from file 'C:\Users\Anna\Documents\StrengthScalingDemo\ResultsRRA\subject01_walk1_RRA_Kinematics_q.sto'...
+[2025-02-26 17:18:24.530] [info] Storage: read data file = C:\Users\Anna\Documents\StrengthScalingDemo\ResultsRRA\subject01_walk1_RRA_Kinematics_q.sto (nr=2217 nc=24)
+[2025-02-26 17:18:24.587] [info] Not filtering the desired kinematics.
+[2025-02-26 17:18:24.590] [cout] [info] MODEL: 3DGaitModel2392
+
+numStates = 230
+numCoordinates = 23
+numSpeeds = 23
+numActuators = 115
+numBodies = 12
+numConstraints = 0
+numProbes = 0
+
+ANALYSES (total: 4)
+analysis[0] = Kinematics
+analysis[1] = Actuation
+analysis[2] = Un-named analysis.
+analysis[3] = Un-named analysis.
+
+BODIES (total: 12)
+body[0] = pelvis. mass: 11.777
+              moments of inertia:  ~[0.1028,0.0871,0.0579]
+              products of inertia: ~[0,0,0]
+body[1] = femur_r. mass: 9.3014
+              moments of inertia:  ~[0.1339,0.0351,0.1412]
+              products of inertia: ~[0,0,0]
+body[2] = tibia_r. mass: 3.7075
+              moments of inertia:  ~[0.0504,0.0051,0.0511]
+              products of inertia: ~[0,0,0]
+body[3] = talus_r. mass: 0.1
+              moments of inertia:  ~[0.001,0.001,0.001]
+              products of inertia: ~[0,0,0]
+body[4] = calcn_r. mass: 1.25
+              moments of inertia:  ~[0.0014,0.0039,0.0041]
+              products of inertia: ~[0,0,0]
+body[5] = toes_r. mass: 0.2166
+              moments of inertia:  ~[0.0001,0.0002,0.0001]
+              products of inertia: ~[0,0,0]
+body[6] = femur_l. mass: 9.3014
+              moments of inertia:  ~[0.1339,0.0351,0.1412]
+              products of inertia: ~[0,0,0]
+body[7] = tibia_l. mass: 3.7075
+              moments of inertia:  ~[0.0504,0.0051,0.0511]
+              products of inertia: ~[0,0,0]
+body[8] = talus_l. mass: 0.1
+              moments of inertia:  ~[0.001,0.001,0.001]
+              products of inertia: ~[0,0,0]
+body[9] = calcn_l. mass: 1.25
+              moments of inertia:  ~[0.0014,0.0039,0.0041]
+              products of inertia: ~[0,0,0]
+body[10] = toes_l. mass: 0.2166
+              moments of inertia:  ~[0.0001,0.0002,0.0001]
+              products of inertia: ~[0,0,0]
+body[11] = torso. mass: 34.2366
+              moments of inertia:  ~[1.4745,0.7555,1.4314]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 12)
+joint[0] = ground_pelvis. parent: ground_offset, child: pelvis_offset
+joint[1] = hip_r. parent: pelvis_offset, child: femur_r_offset
+joint[2] = knee_r. parent: femur_r_offset, child: tibia_r_offset
+joint[3] = ankle_r. parent: tibia_r_offset, child: talus_r_offset
+joint[4] = subtalar_r. parent: talus_r_offset, child: calcn_r_offset
+joint[5] = mtp_r. parent: calcn_r_offset, child: toes_r_offset
+joint[6] = hip_l. parent: pelvis_offset, child: femur_l_offset
+joint[7] = knee_l. parent: femur_l_offset, child: tibia_l_offset
+joint[8] = ankle_l. parent: tibia_l_offset, child: talus_l_offset
+joint[9] = subtalar_l. parent: talus_l_offset, child: calcn_l_offset
+joint[10] = mtp_l. parent: calcn_l_offset, child: toes_l_offset
+joint[11] = back. parent: pelvis_offset, child: torso_offset
+
+ACTUATORS (total: 115)
+actuator[0] = glut_med1_r
+actuator[1] = glut_med2_r
+actuator[2] = glut_med3_r
+actuator[3] = glut_min1_r
+actuator[4] = glut_min2_r
+actuator[5] = glut_min3_r
+actuator[6] = semimem_r
+actuator[7] = semiten_r
+actuator[8] = bifemlh_r
+actuator[9] = bifemsh_r
+actuator[10] = sar_r
+actuator[11] = add_long_r
+actuator[12] = add_brev_r
+actuator[13] = add_mag1_r
+actuator[14] = add_mag2_r
+actuator[15] = add_mag3_r
+actuator[16] = tfl_r
+actuator[17] = pect_r
+actuator[18] = grac_r
+actuator[19] = glut_max1_r
+actuator[20] = glut_max2_r
+actuator[21] = glut_max3_r
+actuator[22] = iliacus_r
+actuator[23] = psoas_r
+actuator[24] = quad_fem_r
+actuator[25] = gem_r
+actuator[26] = peri_r
+actuator[27] = rect_fem_r
+actuator[28] = vas_med_r
+actuator[29] = vas_int_r
+actuator[30] = vas_lat_r
+actuator[31] = med_gas_r
+actuator[32] = lat_gas_r
+actuator[33] = soleus_r
+actuator[34] = tib_post_r
+actuator[35] = flex_dig_r
+actuator[36] = flex_hal_r
+actuator[37] = tib_ant_r
+actuator[38] = per_brev_r
+actuator[39] = per_long_r
+actuator[40] = per_tert_r
+actuator[41] = ext_dig_r
+actuator[42] = ext_hal_r
+actuator[43] = glut_med1_l
+actuator[44] = glut_med2_l
+actuator[45] = glut_med3_l
+actuator[46] = glut_min1_l
+actuator[47] = glut_min2_l
+actuator[48] = glut_min3_l
+actuator[49] = semimem_l
+actuator[50] = semiten_l
+actuator[51] = bifemlh_l
+actuator[52] = bifemsh_l
+actuator[53] = sar_l
+actuator[54] = add_long_l
+actuator[55] = add_brev_l
+actuator[56] = add_mag1_l
+actuator[57] = add_mag2_l
+actuator[58] = add_mag3_l
+actuator[59] = tfl_l
+actuator[60] = pect_l
+actuator[61] = grac_l
+actuator[62] = glut_max1_l
+actuator[63] = glut_max2_l
+actuator[64] = glut_max3_l
+actuator[65] = iliacus_l
+actuator[66] = psoas_l
+actuator[67] = quad_fem_l
+actuator[68] = gem_l
+actuator[69] = peri_l
+actuator[70] = rect_fem_l
+actuator[71] = vas_med_l
+actuator[72] = vas_int_l
+actuator[73] = vas_lat_l
+actuator[74] = med_gas_l
+actuator[75] = lat_gas_l
+actuator[76] = soleus_l
+actuator[77] = tib_post_l
+actuator[78] = flex_dig_l
+actuator[79] = flex_hal_l
+actuator[80] = tib_ant_l
+actuator[81] = per_brev_l
+actuator[82] = per_long_l
+actuator[83] = per_tert_l
+actuator[84] = ext_dig_l
+actuator[85] = ext_hal_l
+actuator[86] = ercspn_r
+actuator[87] = ercspn_l
+actuator[88] = intobl_r
+actuator[89] = intobl_l
+actuator[90] = extobl_r
+actuator[91] = extobl_l
+actuator[92] = FX
+actuator[93] = FY
+actuator[94] = FZ
+actuator[95] = MX
+actuator[96] = MY
+actuator[97] = MZ
+actuator[98] = hip_flexion_r_reserve
+actuator[99] = hip_adduction_r_reserve
+actuator[100] = hip_rotation_r_reserve
+actuator[101] = knee_angle_r_reserve
+actuator[102] = ankle_angle_r_reserve
+actuator[103] = subtalar_angle_r_reserve
+actuator[104] = mtp_angle_r_reserve
+actuator[105] = hip_flexion_l_reserve
+actuator[106] = hip_adduction_l_reserve
+actuator[107] = hip_rotation_l_reserve
+actuator[108] = knee_angle_l_reserve
+actuator[109] = ankle_angle_l_reserve
+actuator[110] = subtalar_angle_l_reserve
+actuator[111] = mtp_angle_l_reserve
+actuator[112] = lumbar_extension_reserve
+actuator[113] = lumbar_bending_reserve
+actuator[114] = lumbar_rotation_reserve
+
+STATES (total: 230)
+y[0] = /jointset/ground_pelvis/pelvis_tilt/value
+y[1] = /jointset/ground_pelvis/pelvis_tilt/speed
+y[2] = /jointset/ground_pelvis/pelvis_list/value
+y[3] = /jointset/ground_pelvis/pelvis_list/speed
+y[4] = /jointset/ground_pelvis/pelvis_rotation/value
+y[5] = /jointset/ground_pelvis/pelvis_rotation/speed
+y[6] = /jointset/ground_pelvis/pelvis_tx/value
+y[7] = /jointset/ground_pelvis/pelvis_tx/speed
+y[8] = /jointset/ground_pelvis/pelvis_ty/value
+y[9] = /jointset/ground_pelvis/pelvis_ty/speed
+y[10] = /jointset/ground_pelvis/pelvis_tz/value
+y[11] = /jointset/ground_pelvis/pelvis_tz/speed
+y[12] = /jointset/hip_r/hip_flexion_r/value
+y[13] = /jointset/hip_r/hip_flexion_r/speed
+y[14] = /jointset/hip_r/hip_adduction_r/value
+y[15] = /jointset/hip_r/hip_adduction_r/speed
+y[16] = /jointset/hip_r/hip_rotation_r/value
+y[17] = /jointset/hip_r/hip_rotation_r/speed
+y[18] = /jointset/knee_r/knee_angle_r/value
+y[19] = /jointset/knee_r/knee_angle_r/speed
+y[20] = /jointset/ankle_r/ankle_angle_r/value
+y[21] = /jointset/ankle_r/ankle_angle_r/speed
+y[22] = /jointset/subtalar_r/subtalar_angle_r/value
+y[23] = /jointset/subtalar_r/subtalar_angle_r/speed
+y[24] = /jointset/mtp_r/mtp_angle_r/value
+y[25] = /jointset/mtp_r/mtp_angle_r/speed
+y[26] = /jointset/hip_l/hip_flexion_l/value
+y[27] = /jointset/hip_l/hip_flexion_l/speed
+y[28] = /jointset/hip_l/hip_adduction_l/value
+y[29] = /jointset/hip_l/hip_adduction_l/speed
+y[30] = /jointset/hip_l/hip_rotation_l/value
+y[31] = /jointset/hip_l/hip_rotation_l/speed
+y[32] = /jointset/knee_l/knee_angle_l/value
+y[33] = /jointset/knee_l/knee_angle_l/speed
+y[34] = /jointset/ankle_l/ankle_angle_l/value
+y[35] = /jointset/ankle_l/ankle_angle_l/speed
+y[36] = /jointset/subtalar_l/subtalar_angle_l/value
+y[37] = /jointset/subtalar_l/subtalar_angle_l/speed
+y[38] = /jointset/mtp_l/mtp_angle_l/value
+y[39] = /jointset/mtp_l/mtp_angle_l/speed
+y[40] = /jointset/back/lumbar_extension/value
+y[41] = /jointset/back/lumbar_extension/speed
+y[42] = /jointset/back/lumbar_bending/value
+y[43] = /jointset/back/lumbar_bending/speed
+y[44] = /jointset/back/lumbar_rotation/value
+y[45] = /jointset/back/lumbar_rotation/speed
+y[46] = /forceset/glut_med1_r/activation
+y[47] = /forceset/glut_med1_r/fiber_length
+y[48] = /forceset/glut_med2_r/activation
+y[49] = /forceset/glut_med2_r/fiber_length
+y[50] = /forceset/glut_med3_r/activation
+y[51] = /forceset/glut_med3_r/fiber_length
+y[52] = /forceset/glut_min1_r/activation
+y[53] = /forceset/glut_min1_r/fiber_length
+y[54] = /forceset/glut_min2_r/activation
+y[55] = /forceset/glut_min2_r/fiber_length
+y[56] = /forceset/glut_min3_r/activation
+y[57] = /forceset/glut_min3_r/fiber_length
+y[58] = /forceset/semimem_r/activation
+y[59] = /forceset/semimem_r/fiber_length
+y[60] = /forceset/semiten_r/activation
+y[61] = /forceset/semiten_r/fiber_length
+y[62] = /forceset/bifemlh_r/activation
+y[63] = /forceset/bifemlh_r/fiber_length
+y[64] = /forceset/bifemsh_r/activation
+y[65] = /forceset/bifemsh_r/fiber_length
+y[66] = /forceset/sar_r/activation
+y[67] = /forceset/sar_r/fiber_length
+y[68] = /forceset/add_long_r/activation
+y[69] = /forceset/add_long_r/fiber_length
+y[70] = /forceset/add_brev_r/activation
+y[71] = /forceset/add_brev_r/fiber_length
+y[72] = /forceset/add_mag1_r/activation
+y[73] = /forceset/add_mag1_r/fiber_length
+y[74] = /forceset/add_mag2_r/activation
+y[75] = /forceset/add_mag2_r/fiber_length
+y[76] = /forceset/add_mag3_r/activation
+y[77] = /forceset/add_mag3_r/fiber_length
+y[78] = /forceset/tfl_r/activation
+y[79] = /forceset/tfl_r/fiber_length
+y[80] = /forceset/pect_r/activation
+y[81] = /forceset/pect_r/fiber_length
+y[82] = /forceset/grac_r/activation
+y[83] = /forceset/grac_r/fiber_length
+y[84] = /forceset/glut_max1_r/activation
+y[85] = /forceset/glut_max1_r/fiber_length
+y[86] = /forceset/glut_max2_r/activation
+y[87] = /forceset/glut_max2_r/fiber_length
+y[88] = /forceset/glut_max3_r/activation
+y[89] = /forceset/glut_max3_r/fiber_length
+y[90] = /forceset/iliacus_r/activation
+y[91] = /forceset/iliacus_r/fiber_length
+y[92] = /forceset/psoas_r/activation
+y[93] = /forceset/psoas_r/fiber_length
+y[94] = /forceset/quad_fem_r/activation
+y[95] = /forceset/quad_fem_r/fiber_length
+y[96] = /forceset/gem_r/activation
+y[97] = /forceset/gem_r/fiber_length
+y[98] = /forceset/peri_r/activation
+y[99] = /forceset/peri_r/fiber_length
+y[100] = /forceset/rect_fem_r/activation
+y[101] = /forceset/rect_fem_r/fiber_length
+y[102] = /forceset/vas_med_r/activation
+y[103] = /forceset/vas_med_r/fiber_length
+y[104] = /forceset/vas_int_r/activation
+y[105] = /forceset/vas_int_r/fiber_length
+y[106] = /forceset/vas_lat_r/activation
+y[107] = /forceset/vas_lat_r/fiber_length
+y[108] = /forceset/med_gas_r/activation
+y[109] = /forceset/med_gas_r/fiber_length
+y[110] = /forceset/lat_gas_r/activation
+y[111] = /forceset/lat_gas_r/fiber_length
+y[112] = /forceset/soleus_r/activation
+y[113] = /forceset/soleus_r/fiber_length
+y[114] = /forceset/tib_post_r/activation
+y[115] = /forceset/tib_post_r/fiber_length
+y[116] = /forceset/flex_dig_r/activation
+y[117] = /forceset/flex_dig_r/fiber_length
+y[118] = /forceset/flex_hal_r/activation
+y[119] = /forceset/flex_hal_r/fiber_length
+y[120] = /forceset/tib_ant_r/activation
+y[121] = /forceset/tib_ant_r/fiber_length
+y[122] = /forceset/per_brev_r/activation
+y[123] = /forceset/per_brev_r/fiber_length
+y[124] = /forceset/per_long_r/activation
+y[125] = /forceset/per_long_r/fiber_length
+y[126] = /forceset/per_tert_r/activation
+y[127] = /forceset/per_tert_r/fiber_length
+y[128] = /forceset/ext_dig_r/activation
+y[129] = /forceset/ext_dig_r/fiber_length
+y[130] = /forceset/ext_hal_r/activation
+y[131] = /forceset/ext_hal_r/fiber_length
+y[132] = /forceset/glut_med1_l/activation
+y[133] = /forceset/glut_med1_l/fiber_length
+y[134] = /forceset/glut_med2_l/activation
+y[135] = /forceset/glut_med2_l/fiber_length
+y[136] = /forceset/glut_med3_l/activation
+y[137] = /forceset/glut_med3_l/fiber_length
+y[138] = /forceset/glut_min1_l/activation
+y[139] = /forceset/glut_min1_l/fiber_length
+y[140] = /forceset/glut_min2_l/activation
+y[141] = /forceset/glut_min2_l/fiber_length
+y[142] = /forceset/glut_min3_l/activation
+y[143] = /forceset/glut_min3_l/fiber_length
+y[144] = /forceset/semimem_l/activation
+y[145] = /forceset/semimem_l/fiber_length
+y[146] = /forceset/semiten_l/activation
+y[147] = /forceset/semiten_l/fiber_length
+y[148] = /forceset/bifemlh_l/activation
+y[149] = /forceset/bifemlh_l/fiber_length
+y[150] = /forceset/bifemsh_l/activation
+y[151] = /forceset/bifemsh_l/fiber_length
+y[152] = /forceset/sar_l/activation
+y[153] = /forceset/sar_l/fiber_length
+y[154] = /forceset/add_long_l/activation
+y[155] = /forceset/add_long_l/fiber_length
+y[156] = /forceset/add_brev_l/activation
+y[157] = /forceset/add_brev_l/fiber_length
+y[158] = /forceset/add_mag1_l/activation
+y[159] = /forceset/add_mag1_l/fiber_length
+y[160] = /forceset/add_mag2_l/activation
+y[161] = /forceset/add_mag2_l/fiber_length
+y[162] = /forceset/add_mag3_l/activation
+y[163] = /forceset/add_mag3_l/fiber_length
+y[164] = /forceset/tfl_l/activation
+y[165] = /forceset/tfl_l/fiber_length
+y[166] = /forceset/pect_l/activation
+y[167] = /forceset/pect_l/fiber_length
+y[168] = /forceset/grac_l/activation
+y[169] = /forceset/grac_l/fiber_length
+y[170] = /forceset/glut_max1_l/activation
+y[171] = /forceset/glut_max1_l/fiber_length
+y[172] = /forceset/glut_max2_l/activation
+y[173] = /forceset/glut_max2_l/fiber_length
+y[174] = /forceset/glut_max3_l/activation
+y[175] = /forceset/glut_max3_l/fiber_length
+y[176] = /forceset/iliacus_l/activation
+y[177] = /forceset/iliacus_l/fiber_length
+y[178] = /forceset/psoas_l/activation
+y[179] = /forceset/psoas_l/fiber_length
+y[180] = /forceset/quad_fem_l/activation
+y[181] = /forceset/quad_fem_l/fiber_length
+y[182] = /forceset/gem_l/activation
+y[183] = /forceset/gem_l/fiber_length
+y[184] = /forceset/peri_l/activation
+y[185] = /forceset/peri_l/fiber_length
+y[186] = /forceset/rect_fem_l/activation
+y[187] = /forceset/rect_fem_l/fiber_length
+y[188] = /forceset/vas_med_l/activation
+y[189] = /forceset/vas_med_l/fiber_length
+y[190] = /forceset/vas_int_l/activation
+y[191] = /forceset/vas_int_l/fiber_length
+y[192] = /forceset/vas_lat_l/activation
+y[193] = /forceset/vas_lat_l/fiber_length
+y[194] = /forceset/med_gas_l/activation
+y[195] = /forceset/med_gas_l/fiber_length
+y[196] = /forceset/lat_gas_l/activation
+y[197] = /forceset/lat_gas_l/fiber_length
+y[198] = /forceset/soleus_l/activation
+y[199] = /forceset/soleus_l/fiber_length
+y[200] = /forceset/tib_post_l/activation
+y[201] = /forceset/tib_post_l/fiber_length
+y[202] = /forceset/flex_dig_l/activation
+y[203] = /forceset/flex_dig_l/fiber_length
+y[204] = /forceset/flex_hal_l/activation
+y[205] = /forceset/flex_hal_l/fiber_length
+y[206] = /forceset/tib_ant_l/activation
+y[207] = /forceset/tib_ant_l/fiber_length
+y[208] = /forceset/per_brev_l/activation
+y[209] = /forceset/per_brev_l/fiber_length
+y[210] = /forceset/per_long_l/activation
+y[211] = /forceset/per_long_l/fiber_length
+y[212] = /forceset/per_tert_l/activation
+y[213] = /forceset/per_tert_l/fiber_length
+y[214] = /forceset/ext_dig_l/activation
+y[215] = /forceset/ext_dig_l/fiber_length
+y[216] = /forceset/ext_hal_l/activation
+y[217] = /forceset/ext_hal_l/fiber_length
+y[218] = /forceset/ercspn_r/activation
+y[219] = /forceset/ercspn_r/fiber_length
+y[220] = /forceset/ercspn_l/activation
+y[221] = /forceset/ercspn_l/fiber_length
+y[222] = /forceset/intobl_r/activation
+y[223] = /forceset/intobl_r/fiber_length
+y[224] = /forceset/intobl_l/activation
+y[225] = /forceset/intobl_l/fiber_length
+y[226] = /forceset/extobl_r/activation
+y[227] = /forceset/extobl_r/fiber_length
+y[228] = /forceset/extobl_l/activation
+y[229] = /forceset/extobl_l/fiber_length
+
+[2025-02-26 17:18:25.115] [info] Constructing function set for tracking desired kinematics...
+[2025-02-26 17:18:25.958] [info] Using the generalized coordinates specified in C:\Users\Anna\Documents\StrengthScalingDemo\ResultsRRA\subject01_walk1_RRA_Kinematics_q.sto to set the initial configuration.
+[2025-02-26 17:18:26.106] [info] Using IPOPT optimizer algorithm.
+[2025-02-26 17:18:26.106] [info] Setting optimizer print level to 0.
+[2025-02-26 17:18:26.106] [info] Setting optimizer convergence tolerance to 0.000100000.
+[2025-02-26 17:18:26.106] [info] Setting optimizer maximum iterations to 2000.
+[2025-02-26 17:18:26.106] [info] Setting cmc controller to not use verbose printing.
+
+[2025-02-26 17:18:26.109] [info] -----------------------------------------------------------------
+[2025-02-26 17:18:26.109] [info] Computing initial values for muscles states (activation, length):
+[2025-02-26 17:18:26.109] [info] -----------------------------------------------------------------
+[2025-02-26 17:18:26.109] [info]  -- Start time = Wed Feb 26 17:18:26 2025
+[2025-02-26 17:18:26.109] [info] -----------------------------------------------------------------
+[2025-02-26 17:18:26.109] [info] 
+[2025-02-26 17:18:28.433] [info] CMC::computeControls, t = 0.5
+[2025-02-26 17:18:35.003] [info] CMC::computeControls, t = 0.5
+[2025-02-26 17:18:39.506] [info] ----------------------------------
+[2025-02-26 17:18:39.507] [info] Finished computing initial states:
+[2025-02-26 17:18:39.507] [info] ----------------------------------
+[2025-02-26 17:18:39.507] [info]  -- Start time = Wed Feb 26 17:18:26 2025
+[2025-02-26 17:18:39.507] [info]  -- Finish time = Wed Feb 26 17:18:39 2025
+[2025-02-26 17:18:39.507] [info]  -- Elapsed time = 13.0 seconds.
+[2025-02-26 17:18:39.507] [info] ----------------------------------
+[2025-02-26 17:18:39.507] [info] 
+[2025-02-26 17:18:39.507] [info] --------------------------------------------
+[2025-02-26 17:18:39.507] [info] Using CMC to track the specified kinematics:
+[2025-02-26 17:18:39.507] [info] --------------------------------------------
+[2025-02-26 17:18:39.507] [info]  -- Integrating from 0.53 to 2.0
+[2025-02-26 17:18:39.507] [info]  -- Start time = Wed Feb 26 17:18:39 2025
+[2025-02-26 17:18:39.507] [info] --------------------------------------------
+[2025-02-26 17:18:39.507] [info] 
+[2025-02-26 17:18:39.565] [info] CMC::computeControls, t = 0.53
+[2025-02-26 17:18:42.670] [info] CMC::computeControls, t = 0.54
+[2025-02-26 17:18:45.261] [info] CMC::computeControls, t = 0.55
+[2025-02-26 17:18:48.263] [info] CMC::computeControls, t = 0.56
+[2025-02-26 17:18:51.029] [info] CMC::computeControls, t = 0.57
+[2025-02-26 17:18:53.575] [info] CMC::computeControls, t = 0.58
+[2025-02-26 17:18:56.099] [info] CMC::computeControls, t = 0.59
+[2025-02-26 17:18:58.528] [info] CMC::computeControls, t = 0.6
+[2025-02-26 17:19:01.318] [info] CMC::computeControls, t = 0.61
+[2025-02-26 17:19:04.320] [info] CMC::computeControls, t = 0.62
+[2025-02-26 17:20:02.874] [info] Updating Model file from 40000 to latest format...
+[2025-02-26 17:20:02.894] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted_double.osim
+[2025-02-26 17:20:41.616] [info] Updating Model file from 40000 to latest format...
+[2025-02-26 17:20:41.638] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted_half.osim
+[2025-02-26 17:21:05.731] [info] Updating Model file from 40000 to latest format...
+[2025-02-26 17:21:05.748] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted.osim
+[2025-02-26 17:21:34.600] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted_double.osim
+[2025-02-26 17:21:50.387] [info] Loaded model 3DGaitModel2392 from file C:\Users\Anna\Documents\StrengthScalingDemo\subject01_simbody_adjusted_half.osim
